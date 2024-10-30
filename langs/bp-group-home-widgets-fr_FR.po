@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: bp-group-home-widgets.php:45
+msgid "Video/Audio 1"
+msgstr "Vidéo/Audio 1"
+
+#: bp-group-home-widgets.php:46
+msgid "Video/Audio 2"
+msgstr "Vidéo/Audio 2"
+
+#: bp-group-home-widgets.php:47
+msgid "Text 1"
+msgstr "Texte 1"
+
+#: bp-group-home-widgets.php:48
+msgid "Text 2"
+msgstr "Texte 2"
+
+#: bp-group-home-widgets.php:49 includes/bpghw-functions.php:80
+msgid "Our Members"
+msgstr "Nos membres"
+
+#: bp-group-home-widgets.php:50 includes/bpghw-functions.php:87
+msgid "Our Activity"
+msgstr "Notre activité"
+
+#: bp-group-home-widgets.php:51 includes/bpghw-functions.php:100
+msgid "Our Comments"
+msgstr "Nos commentaires"
+
+#: bp-group-home-widgets.php:52 includes/bpghw-functions.php:94
+msgid "Mention Us"
+msgstr "Mentionnez-nous"
+
+#: bp-group-home-widgets.php:53
+msgid "Resetting to defaults..."
+msgstr "Remise des valeurs par défaut..."
+
+#: bp-group-home-widgets.php:54 includes/bpghw-widget-class.php:189
+#: includes/bpghw-widget-class.php:208 includes/bpghw-widget-class.php:242
+msgid "Submit"
+msgstr "Envoyer"
+
+#: bp-group-home-widgets.php:55 includes/bpghw-widget-class.php:172
+msgid "Add Widget"
+msgstr "Ajouter le widget"
+
+#: bp-group-home-widgets.php:56 includes/bpghw-widget-class.php:166
+msgid "Change"
+msgstr "Changer"
+
+#: bp-group-home-widgets.php:57
+msgid "Cancel"
+msgstr "Annuler"
+
+#: bp-group-home-widgets.php:58
+msgid "Success!"
+msgstr "Réussite !"
+
+#: bp-group-home-widgets.php:59
+msgid "Success! Please refresh the window to see."
+msgstr "Réussi ! Veuillez rafraîchir la fenêtre pour le voir."
+
+#: bp-group-home-widgets.php:60
+msgid "Please try again..."
+msgstr "Merci de réessayer..."
+
+#: bp-group-home-widgets.php:61
+msgid "Please paste a URL"
+msgstr "Veuillez coller une URL"
+
+#: bp-group-home-widgets.php:62
+msgid "Adding Video ..."
+msgstr "Ajout de la vidéo..."
+
+#: bp-group-home-widgets.php:63
+msgid "Adding Members ..."
+msgstr "Ajout des membres..."
+
+#: bp-group-home-widgets.php:64
+msgid "Adding Activity ..."
+msgstr "Ajout de l'activité..."
+
+#: bp-group-home-widgets.php:65
+msgid "Adding Comments ..."
+msgstr "Ajout des commentaires..."
+
+#: bp-group-home-widgets.php:66
+msgid "Adding Mention Us ..."
+msgstr "Ajouts de nos mentions..."
+
+#: bp-group-home-widgets.php:67
+msgid "Deleting..."
+msgstr "Suppression..."
+
+#: bp-group-home-widgets.php:68 includes/bpghw-widget-class.php:277
+msgid "Clear Preset"
+msgstr "Supprimer le modèle"
+
+#: bp-group-home-widgets.php:69 includes/bpghw-widget-class.php:281
+msgid "Save as Preset"
+msgstr "Enregistrer comme modèle"
+
+#: bp-group-home-widgets.php:70
+msgid "Clearing Preset..."
+msgstr "Suppression du modèle..."
+
+#: bp-group-home-widgets.php:71
+msgid "Saving as Preset..."
+msgstr "Enregistre comme modèle..."
+
+#: bp-group-home-widgets.php:72
+msgid "Adding Text ..."
+msgstr "Ajout du texte..."
+
+#: includes/bpghw-ajax.php:34 includes/bpghw-ajax.php:82
+#: includes/bpghw-ajax.php:122 includes/bpghw-ajax.php:174
+#: includes/bpghw-ajax.php:235 includes/bpghw-ajax.php:281
+#: includes/bpghw-ajax.php:343 includes/bpghw-ajax.php:400
+msgid "Not correct user"
+msgstr "Utilisateur incorrect"
+
+#: includes/bpghw-ajax.php:203
+msgid "Video not saved"
+msgstr "Vidéo non enregistrée"
+
+#: includes/bpghw-functions.php:52
+msgid "Video/Audio Player 1"
+msgstr "Lecteur Vidéo/Audio 1"
+
+#: includes/bpghw-functions.php:59
+msgid "Video/Audio Player 2"
+msgstr "Lecteur Vidéo/Audio 2"
+
+#: includes/bpghw-functions.php:66
+msgid "Text Widget 1"
+msgstr "Widget de texte 1"
+
+#: includes/bpghw-functions.php:73
+msgid "Text Widget 2"
+msgstr "Widget de texte 2"
+
+#: includes/bpghw-functions.php:278
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Désolé, Aucune activité n'a été trouvée. S'il vous plaît essayez un filtre différent."
+
+#: includes/bpghw-functions.php:322
+msgid "View Conversation"
+msgstr "Afficher la conversation"
+
+#: includes/bpghw-widget-class.php:20
+msgid "Adds sortable and selectable widgets to BP Nouveau Group Home page"
+msgstr "Ajouter des widgets de sélection et de tri des utilisateurs sur la page de groupe de BP Nouveau"
+
+#: includes/bpghw-widget-class.php:22
+msgid "BP Group Home Widgets"
+msgstr "Widgets de la page du groupe"
+
+#: includes/bpghw-widget-class.php:41 includes/bpghw-widget-class.php:314
+msgid "Title:"
+msgstr "Titre :"
+
+#: includes/bpghw-widget-class.php:137
+msgid "Change Video"
+msgstr "Changer la vidéo"
+
+#: includes/bpghw-widget-class.php:139
+msgid "Clear Video"
+msgstr "Supprimer la vidéo"
+
+#: includes/bpghw-widget-class.php:143
+msgid "Add a Video"
+msgstr "Ajouter une vidéo"
+
+#: includes/bpghw-widget-class.php:150
+msgid "Change Text"
+msgstr "Modifier le texte"
+
+#: includes/bpghw-widget-class.php:152
+msgid "Clear Text"
+msgstr "Supprimer le texte"
+
+#: includes/bpghw-widget-class.php:157
+msgid "Add Text"
+msgstr "Ajouter du texte"
+
+#: includes/bpghw-widget-class.php:168
+msgid "Hide Widget"
+msgstr "Masquer le widget"
+
+#: includes/bpghw-widget-class.php:183
+msgid "Paste Video URL here"
+msgstr "Coller l'URL de la vidéo ici"
+
+#: includes/bpghw-widget-class.php:215
+msgid "Max Membes"
+msgstr "Nb max. d'utilisateurs"
+
+#: includes/bpghw-widget-class.php:219
+msgid " Max Members to show"
+msgstr "Nb max. d'utilisateurs à afficher :"
+
+#: includes/bpghw-widget-class.php:222
+msgid "Max Items"
+msgstr "Nb max. d'éléments"
+
+#: includes/bpghw-widget-class.php:226
+msgid " Max Items to show"
+msgstr " Nb max. d'éléments à afficher"
+
+#: includes/bpghw-widget-class.php:234
+msgid "Display Comment Us comment box"
+msgstr "Afficher la zone laissez-nous un commentaire"
+
+#: includes/bpghw-widget-class.php:239
+msgid "Hide Comment Us comment box"
+msgstr "Masquer la zone laissez-nous un commentaire"
+
+#: includes/bpghw-widget-class.php:261
+msgid "Update Widgets"
+msgstr "Mettre à jour le widget"
+
+#: includes/bpghw-widget-class.php:265
+msgid "Add a Widget"
+msgstr "Ajouter un widget"
+
+#: includes/bpghw-widget-class.php:287
+msgid "Clear All"
+msgstr "Tout supprimer"
+
+#: includes/bpghw-widget-class.php:290
+msgid "Select an empty widget and input the required info"
+msgstr "Sélectionnez un widget vide et renseignez les informations demandées"
+
+#: includes/bpghw-widget-class.php:308
+msgid "Group Home Widgets"
+msgstr "Widgets de la page du groupe"
+
+#: includes/bpghw-widget-class.php:318
+msgid "Disable Video/Audio Widgets:"
+msgstr "Désactive les widgets Vidéo/Audio :"
+
+#: includes/bpghw-widget-class.php:322
+msgid "Disable Text Widgets:"
+msgstr "Désactive les widgets texte :"
+
+#: includes/bpghw-widget-class.php:325
+msgid "Disable BuddyPress (Our Members, Our Activity, Our Comments )  Widgets:"
+msgstr "Désactivez les widgets ByddyPress (Nos membres, notre activité, nos commentaires) :"
+
+#: templates/activity/post-form.php:17
+#, php-format
+msgid "Write a comment to the group, %s"
+msgstr "Laissez un commentaire au groupe, %s"
+
+#: templates/activity/post-form.php:24
+msgid "Post what's new"
+msgstr "Publier les nouveautés"
+
+#: templates/activity/post-form.php:33
+msgid "Post Update"
+msgstr "Mise à jour"
